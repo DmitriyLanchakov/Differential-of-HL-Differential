@@ -10,4 +10,4 @@ Differential of HL differential is simple, fast acting indicator example to dete
 ### Sources
 
 - First release of idea (Luthuanian): http://www.prekybaforex.lt/kvanto-darbo-pavyzdys
-- Develoepr's site: http://algotrade.co/
+- Develoepr's site: http://www.talaikis.com/
